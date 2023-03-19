@@ -10,7 +10,7 @@ The purpose of this analysis is to build a logistic regression model to predict 
 Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-**Machine Learning Model 1:
+**Machine Learning Model 1:**
 
 ![image](https://user-images.githubusercontent.com/97980927/226203353-45be630a-b183-4f4d-a8f7-5c828764e359.png)
 
@@ -29,7 +29,7 @@ Recall:
 
 
 
-**Machine Learning Model 2:
+**Machine Learning Model 2:**
 
 ![image](https://user-images.githubusercontent.com/97980927/226203386-cc1ec4bb-31d0-4704-abf1-17f8ef10d822.png)
 
