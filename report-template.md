@@ -45,11 +45,8 @@ Recall:
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 * Which one seems to perform best? How do you know it performs best? 
-* 
 * Model 2 seems best, but they both display high accuracy and precision so you can't really go wrong with either model of your choosing. For myself as an example, I would be using both models in this case to create a diversified set of results.
 
 
-* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? ) 
-* 
-* 
+Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? ) 
 * It would depend on "who" is trying to solve the problem. If you are a large corporation or institution in charge of lending, then yes performance would depend on many of the problems you are trying to solve. And larger corporations/institutions have the budget to pay for better performance. If you are a small, mom-and-pop shop with a lot smaller clientele list then a simple performance dataset like this could help tremendously and way moreso than writing on paper or using simple Excel functions
