@@ -11,7 +11,9 @@ Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 Machine Learning Model 1:
+
 ![image](https://user-images.githubusercontent.com/97980927/226203353-45be630a-b183-4f4d-a8f7-5c828764e359.png)
+
 ![image](https://user-images.githubusercontent.com/97980927/226202989-4232eba0-a5aa-49de-9cbd-91408d7355e5.png)
 
 Balanced Accuracy: 
@@ -28,7 +30,9 @@ Recall:
 
 
 Machine Learning Model 2:
+
 ![image](https://user-images.githubusercontent.com/97980927/226203386-cc1ec4bb-31d0-4704-abf1-17f8ef10d822.png)
+
 ![image](https://user-images.githubusercontent.com/97980927/226203049-29f029c9-bf81-4201-be14-8b0c53e21560.png)
 
 Balanced Accuracy: 
