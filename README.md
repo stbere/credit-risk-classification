@@ -14,7 +14,8 @@ Machine Learning Model 1:
 
 ![image](https://user-images.githubusercontent.com/97980927/226202989-4232eba0-a5aa-49de-9cbd-91408d7355e5.png)
 
-Balanced Accuracy: 95%
+Balanced Accuracy: 
+* 95%
 
 Precision:
 * Healthy Loan: 100%
@@ -28,7 +29,8 @@ Machine Learning Model 2:
 
 ![image](https://user-images.githubusercontent.com/97980927/226203049-29f029c9-bf81-4201-be14-8b0c53e21560.png)
 
-Balanced Accuracy: 99%
+Balanced Accuracy: 
+* 99%
 
 Precision:
 * Healthy Loan: 100%
@@ -38,7 +40,9 @@ Recall:
 * Healthy Loan: 99%
 * High-Risk: 99%
 
-Summary
+Summary:
+
+
 Which one seems to perform best? How do you know it performs best?
 * Model 2 seems best, but they both display high accuracy and precision so you can't really go wrong with either model of your choosing. For myself as an example, I would be using both models in this case to create a diversified set of results.
 
