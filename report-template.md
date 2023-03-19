@@ -12,6 +12,9 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
 
+![image](https://user-images.githubusercontent.com/97980927/226200816-bd728eef-df4b-468f-bfc9-832c616a0d3b.png)
+
+
 Balanced Accuracy: 95%
 
 Precision:
@@ -24,6 +27,8 @@ Recall:
 
 
 * Machine Learning Model 2:
+
+![image](https://user-images.githubusercontent.com/97980927/226200832-b94a312d-be4a-4672-a8db-c75d17b003de.png)
 
 Balanced Accuracy: 99%
 
