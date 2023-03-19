@@ -1,7 +1,7 @@
 # credit-risk-classification
 For Bootcamp: TCC-VIRT-DATA-PT-10-2022-U-LOLC-MTTH
 
-Module 12 Report Template
+Module 20 Report 
 Overview of the Analysis
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
@@ -17,14 +17,12 @@ Machine Learning Model 1:
 Balanced Accuracy: 95%
 
 Precision:
+* Healthy Loan: 100%
+* High-Risk: 85%
 
-Healthy Loan: 100%
-High-Risk: 85%
 Recall:
-
-Healthy Loan: 99%
-
-High-Risk: 91%
+* Healthy Loan: 99%
+* High-Risk: 91%
 
 Machine Learning Model 2:
 
@@ -33,18 +31,18 @@ Machine Learning Model 2:
 Balanced Accuracy: 99%
 
 Precision:
+* Healthy Loan: 100%
+* High-Risk: 84%
 
-Healthy Loan: 100%
-High-Risk: 84%
 Recall:
+* Healthy Loan: 99%
+* High-Risk: 99%
 
-Healthy Loan: 99%
-High-Risk: 99%
 Summary
 Which one seems to perform best? How do you know it performs best?
+* Model 2 seems best, but they both display high accuracy and precision so you can't really go wrong with either model of your choosing. For myself as an example, I would be using both models in this case to create a diversified set of results.
 
-Model 2 seems best, but they both display high accuracy and precision so you can't really go wrong with either model of your choosing. For myself as an example, I would be using both models in this case to create a diversified set of results.
+
 Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the 1's, or predict the 0's? )
-
-It would depend on "who" is trying to solve the problem. If you are a large corporation or institution in charge of lending, then yes performance would depend on many of the problems you are trying to solve. And larger corporations/institutions have the budget to pay for better performance.
-But if you are a small, mom-and-pop shop with a lot smaller clientele list then a simple performance dataset like this could help tremendously and way moreso than writing on paper or using simple Excel functions.
+* It would depend on "who" is trying to solve the problem. If you are a large corporation or institution in charge of lending, then yes performance would depend on many of the problems you are trying to solve. And larger corporations/institutions have the budget to pay for better performance.
+* But if you are a small, mom-and-pop shop with a lot smaller clientele list then a simple performance dataset like this could help tremendously and way moreso than writing on paper or using simple Excel functions.
