@@ -1,7 +1,8 @@
 # credit-risk-classification
 For Bootcamp: TCC-VIRT-DATA-PT-10-2022-U-LOLC-MTTH
 
-Module 20 Report 
+Module 20 Report
+
 **Overview of the Analysis**
 
 The purpose of this analysis is to build a logistic regression model to predict whether a loan is high-risk or healthy based on various factors, such as loan size, interest rate, borrower income, debt-to-income ratio, and more. This will help the company make informed decisions about which loans to approve or reject, thereby minimizing the risk of default.
