@@ -2,13 +2,11 @@
 For Bootcamp: TCC-VIRT-DATA-PT-10-2022-U-LOLC-MTTH
 
 Module 20 Report 
-Overview of the Analysis
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+**Overview of the Analysis**
 
 The purpose of this analysis is to build a logistic regression model to predict whether a loan is high-risk or healthy based on various factors, such as loan size, interest rate, borrower income, debt-to-income ratio, and more. This will help the company make informed decisions about which loans to approve or reject, thereby minimizing the risk of default.
 
-Results
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+**Results**
 
 **Machine Learning Model 1:**
 
@@ -29,6 +27,7 @@ Recall:
 
 
 
+
 **Machine Learning Model 2:**
 
 ![image](https://user-images.githubusercontent.com/97980927/226203386-cc1ec4bb-31d0-4704-abf1-17f8ef10d822.png)
@@ -46,8 +45,7 @@ Recall:
 * Healthy Loan: 99%
 * High-Risk: 99%
 
-Summary:
-
+**Summary:**
 
 Which one seems to perform best? How do you know it performs best?
 * Model 2 seems best, but they both display high accuracy and precision so you can't really go wrong with either model of your choosing. For myself as an example, I would be using both models in this case to create a diversified set of results.
